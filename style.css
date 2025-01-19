@@ -1,3 +1,7 @@
+.gallery-title {
+  font-size: 25px;
+}
+
 .image-gallery {
   text-align: center;
 }
@@ -6,8 +10,8 @@
   margin: 10px;
 }
 .image {
-  max-width: 200px;
-  height: auto;
+  max-width: 300px;
+  height: 200px;
   border: 2px solid #ddd;
   border-radius: 8px;
 }
@@ -16,7 +20,7 @@
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  background-color: #4CAF50;
+  background-color: #af4c7a;
   color: white;
   border: none;
   border-radius: 5px;
