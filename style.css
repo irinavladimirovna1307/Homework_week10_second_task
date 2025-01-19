@@ -1,0 +1,28 @@
+.image-gallery {
+  text-align: center;
+}
+.image-box {
+  display: inline-block;
+  margin: 10px;
+}
+.image {
+  max-width: 200px;
+  height: auto;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+}
+.price-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.total-price-display {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
